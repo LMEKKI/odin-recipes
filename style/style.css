@@ -1,0 +1,34 @@
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align: center;
+    font-size: 56px;
+    border: 2px solid lightseagreen;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 70px;
+
+}
+
+a,h1:hover {
+transition: ease-in;
+color: burlywood;
+
+}
+
+li {
+    list-style-type: none;
+    align-items: center;
+    display: inline;
+    
+}
+
+ul {
+    text-align: center;
+}
